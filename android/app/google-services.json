@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349865961733",
+    "project_id": "cit-car-wash",
+    "storage_bucket": "cit-car-wash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349865961733:android:b07c2e888fa29245202f6c",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.carwash.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyxdHLi7XBH_P7B8sQe0DY6fJpnflCmA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
