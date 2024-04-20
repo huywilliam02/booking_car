@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "79598881060",
+    "firebase_url": "https://cit-gocar-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cit-gocar",
+    "storage_bucket": "cit-gocar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79598881060:android:b4c9a50b453424758a4bb1",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79598881060-obja1qc6fu18i6mnitefjglsabacca7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2fFdFzNGcVRAiIHtC8QxnwoCCR4Xo-m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79598881060-obja1qc6fu18i6mnitefjglsabacca7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79598881060:android:c7e5d78e0118d9ca8a4bb1",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.car.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79598881060-obja1qc6fu18i6mnitefjglsabacca7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2fFdFzNGcVRAiIHtC8QxnwoCCR4Xo-m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79598881060-obja1qc6fu18i6mnitefjglsabacca7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
